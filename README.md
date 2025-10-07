@@ -14,9 +14,9 @@ You are allowed to use the shortcuts and partial solutions. If you are stuck on 
 
 Turn in your work by 
 1) changing the name of the colab notebook replacing "instructions" with your last name
-2) sharing the link to your colab notebook with me (fbianco@udel.edu) 
-<img width="556" alt="Screen Shot 2025-10-06 at 5 25 49 PM" src="https://github.com/fedhere/scratch/assets/1696902/574a6fe4-18dc-4232-9ebd-f0c04387bb0e">
-
+2) sharing the link to your colab notebook with me (fbianco@udel.edu)
+3) 
+<img width="545" height="393" alt="Screenshot 2025-10-06 at 11 12 01 PM" src="https://github.com/user-attachments/assets/71e88c0c-cb30-49fc-9713-2e6e93da7002" />
 
 Your grade is compiled based on the notebook as it is rendered. Your notebook should run on Colab. If it does not you will get 20% fewer points. If it does not because you went back to some tasks indicate so in the notebook. But if you leave in the links to the data or codes used when taking shortcuts the code should work.
 
